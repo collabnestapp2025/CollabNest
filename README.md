@@ -35,9 +35,8 @@ The main login page for returning users to access their CollabNest account.
 - Dedicated button to switch to Admin Login  
 
 **Screenshot:**  
- 
-<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/userLogin.jpeg" width="300">
-
-<img src="https://github.com/collabnestapp2025/CollabNest-App/blob/main/screenshots/firstuser.jpeg" width="300">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/userLogin.jpeg" width="300" style="margin-right:20px;">
+  <img src="https://github.com/collabnestapp2025/CollabNest-App/blob/main/screenshots/firstuser.jpeg" width="300">
+</p>
 
 
