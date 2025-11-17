@@ -39,4 +39,21 @@ The main login page for returning users to access their CollabNest account.
   <img src="https://github.com/collabnestapp2025/CollabNest-App/blob/main/screenshots/firstuser.jpeg" width="300">
 </p>
 
+## 📝 3. Edit Profile Screen  
+The Edit Profile screen allows users to build a complete professional profile inside the app.  
+Students can showcase their skills, projects, and achievements, making it easier for others to find the right teammates.
+
+**Features:**
+- Upload or change **profile picture (DP)**  
+- Add or update **skills**  
+- Add **project details**  
+- Add **GitHub profile link**  
+- Upload **Resume (PDF)**  
+- Add **LinkedIn link**  
+- Add **LeetCode profile link**  
+- All data is synced with Firebase for real-time updates  
+
+**Screenshot:**  
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/editProfile.jpeg" width="300">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/ediprofile2.jpeg" width="300">
 
