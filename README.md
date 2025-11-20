@@ -435,10 +435,12 @@ CollabNest is built using a modern and scalable tech stack:
 
 **Kalpak Patil**  
 📧 Email: kalpakpatil131@gmail.com
-🔗 GitHub: https://github.com/Patil-Kalpak  
+🔗 GitHub: https://github.com/Patil-Kalpak
+📞 Contact: 8928224139
 
 **Saina**  
-📧 Email: sainasaindane28@gmail.com  
+📧 Email: sainahamid545@gmail.com
+🔗 GitHub: https://github.com/Saina545
 
 **Alfiya**  
 📧 Email: heetgandhi2511@gmail.com  
